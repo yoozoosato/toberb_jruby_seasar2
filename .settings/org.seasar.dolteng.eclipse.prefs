@@ -1,0 +1,6 @@
+#Sat Apr 10 15:11:10 JST 2010
+DaoType=S2Dao
+DefaultResourcePath=/toberb/src/main/resources
+DefaultRootPackage=rb.tobe
+DefaultSrcPath=/toberb/src/main/java
+eclipse.preferences.version=1

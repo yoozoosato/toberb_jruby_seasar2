@@ -1,0 +1,4 @@
+#Sat Apr 10 15:11:10 JST 2010
+baseDir=/toberb/src/main/webapp/WEB-INF/classes/data
+eclipse.preferences.version=1
+initDB=/toberb/src/main/resources/data
