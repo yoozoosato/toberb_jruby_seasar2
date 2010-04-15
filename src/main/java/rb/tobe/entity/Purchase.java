@@ -13,12 +13,6 @@ public class Purchase {
 	public static final String updatedAt_COLUMN = "UPDATED_AT";
 	
 	private int id;
-	public int getId() {
-		return id;
-	}
-	public void setId(int id) {
-		this.id = id;
-	}
 	private Date businessDate;
 	private String transactionCode;
 	private String itemName;
@@ -26,6 +20,12 @@ public class Purchase {
 	private Date createdAt;
 	private Date updatedAt; 
 
+	public int getId() {
+		return id;
+	}
+	public void setId(int id) {
+		this.id = id;
+	}
 	public Date getBusinessDate() {
 		return businessDate;
 	}
